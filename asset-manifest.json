@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/DAA_Assignment1/static/css/main.6991852d.css",
-    "main.js": "/DAA_Assignment1/static/js/main.3e7871d8.js",
+    "main.js": "/DAA_Assignment1/static/js/main.a67b30be.js",
     "static/media/2nd.png": "/DAA_Assignment1/static/media/2nd.62a35132367be0db30bb.png",
     "static/media/3rd.png": "/DAA_Assignment1/static/media/3rd.d8060a057a1620b538d3.png",
     "static/media/1st.png": "/DAA_Assignment1/static/media/1st.57a1ee583fa3e6667c5c.png",
@@ -68,10 +68,10 @@
     "static/media/KaTeX_Size3-Regular.woff2": "/DAA_Assignment1/static/media/KaTeX_Size3-Regular.e1951519f6f0596f7356.woff2",
     "index.html": "/DAA_Assignment1/index.html",
     "main.6991852d.css.map": "/DAA_Assignment1/static/css/main.6991852d.css.map",
-    "main.3e7871d8.js.map": "/DAA_Assignment1/static/js/main.3e7871d8.js.map"
+    "main.a67b30be.js.map": "/DAA_Assignment1/static/js/main.a67b30be.js.map"
   },
   "entrypoints": [
     "static/css/main.6991852d.css",
-    "static/js/main.3e7871d8.js"
+    "static/js/main.a67b30be.js"
   ]
 }
