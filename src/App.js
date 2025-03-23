@@ -7,7 +7,7 @@ import Paper3 from "./components/Paper3";
 
 function App() {
   return (
-    <Router basename="/DAA_Assignment1">  {/* Ensure the correct basename */}
+    <Router>  {/* Ensure the correct basename */}
       <Routes>
         <Route path="/" element={<Home />} />
         <Route path="/paper1" element={<Paper1 />} />
